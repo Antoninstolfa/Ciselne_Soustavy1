@@ -1,0 +1,10 @@
+G:\PRG\C#\Ciselne_Soustavy1\Ciselne_Soustavy1\bin\Debug\Ciselne_Soustavy1.exe.config
+G:\PRG\C#\Ciselne_Soustavy1\Ciselne_Soustavy1\bin\Debug\Ciselne_Soustavy1.exe
+G:\PRG\C#\Ciselne_Soustavy1\Ciselne_Soustavy1\bin\Debug\Ciselne_Soustavy1.pdb
+G:\PRG\C#\Ciselne_Soustavy1\Ciselne_Soustavy1\obj\Debug\Ciselne_Soustavy1.csproj.AssemblyReference.cache
+G:\PRG\C#\Ciselne_Soustavy1\Ciselne_Soustavy1\obj\Debug\Ciselne_Soustavy1.Form1.resources
+G:\PRG\C#\Ciselne_Soustavy1\Ciselne_Soustavy1\obj\Debug\Ciselne_Soustavy1.Properties.Resources.resources
+G:\PRG\C#\Ciselne_Soustavy1\Ciselne_Soustavy1\obj\Debug\Ciselne_Soustavy1.csproj.GenerateResource.cache
+G:\PRG\C#\Ciselne_Soustavy1\Ciselne_Soustavy1\obj\Debug\Ciselne_Soustavy1.csproj.CoreCompileInputs.cache
+G:\PRG\C#\Ciselne_Soustavy1\Ciselne_Soustavy1\obj\Debug\Ciselne_Soustavy1.exe
+G:\PRG\C#\Ciselne_Soustavy1\Ciselne_Soustavy1\obj\Debug\Ciselne_Soustavy1.pdb
